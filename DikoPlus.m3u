@@ -1,0 +1,569 @@
+#EXTM3U url-tvg="https://github.com/dtp80/freqtrade/raw/develop/freqtrade/util/migrations/files/src/api.xml.gz"
+	
+
+#EXTINF:-1 tvg-id="kan-11-YES" tvg-name="kan-11-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Kan-11-DM.png" tvg-rec="3",כאן 11
+#EXTGRP:✡️ ראשי
+http://rhsbjv7k.tvclub.xyz/iptv/ALCW7F9KNSZ67F/2332/index.m3u8
+
+#EXTINF:-1 tvg-id="12-kanal-il" tvg-name="keshet-12-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Keshet-12-DM.png" tvg-rec="3",קשת 12
+#EXTGRP:✡️ ראשי
+http://rhsbjv7k.tvclub.xyz/iptv/ALCW7F9KNSZ67F/2329/index.m3u8
+
+#EXTINF:-1 tvg-id="reshet-13-YES" tvg-name="reshet-13-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Reshet-13-DM.png" tvg-rec="3",רשת 13
+#EXTGRP:✡️ ראשי
+http://rhsbjv7k.tvclub.xyz/iptv/ALCW7F9KNSZ67F/2330/index.m3u8
+
+#EXTINF:-1 tvg-id="now-14-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Channel-14-DM.png" tvg-rec="0",עכשיו 14
+#EXTGRP:✡️ ראשי
+https://ch14-channel14-content.akamaized.net/hls/live/2104807/CH14_CHANNEL14/master.m3u8
+
+#EXTINF:-1 tvg-id="i24-news-he-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/i24-DM.png" tvg-rec="0",i24 חדשות
+#EXTGRP:✡️ ראשי
+https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="calcala-10-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Calcala-10-DM.png" tvg-rec="0",ערוץ הכלכלה
+#EXTGRP:✡️ ראשי
+https://r.il.cdn-redge.media/livehls/oil/calcala/live/channel10/live.livx/playlist.m3u8
+
+#EXTINF:-1 tvg-id="walla-plus-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Walla-Plus-DM.png" tvg-rec="0",ערוץ וואלה+
+#EXTGRP:✡️ ראשי
+https://amg01742-walla-wallanews-ono-btlna.amagi.tv/playlist/amg01742-walla-wallanews-ono/playlist.m3u8
+
+#EXTINF:-1 tvg-id="channel-98-YES" tvg-name="channel-98-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Channel-98-DM.png" tvg-rec="3",ערוץ 98
+#EXTGRP:✡️ ראשי
+http://rhsbjv7k.tvclub.xyz/iptv/ALCW7F9KNSZ67F/2369/index.m3u8
+
+#EXTINF:-1 tvg-id="knesset-99-YES" tvg-name="knesset-99-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Knesset-DM.png" tvg-rec="0",ערוץ הכנסת
+#EXTGRP:✡️ ראשי
+http://rhsbjv7k.tvclub.xyz/iptv/ALCW7F9KNSZ67F/12269/index.m3u8
+
+#EXTINF:-1 tvg-id="hidabrut-YES" tvg-name="hidabrut-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Hidabrut-DM.png" tvg-rec="0",ערוץ ההידברות
+#EXTGRP:✡️ ראשי
+http://rhsbjv7k.tvclub.xyz/iptv/ALCW7F9KNSZ67F/12211/index.m3u8
+
+#EXTINF:-1 tvg-id="kabbalah-HOT" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Kabalah-DM.png" tvg-rec="0",קבלה לעם
+#EXTGRP:✡️ ראשי
+https://edge2.il.kab.tv/live/tv66-heb-high/playlist.m3u8
+
+#EXTINF:-1 tvg-id="shelanu-tv-CUSTOM" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Shelanu-TV-DM.png" tvg-rec="0",טלויזיה שלנו
+#EXTGRP:✡️ ראשי
+https://1247634592.rsc.cdn77.org/1247634592/index.m3u8
+
+#EXTINF:-1 tvg-id="noflim-CUSTOM" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Noflim-DM.png" tvg-rec="0",ערוץ הנופלים והנופלות
+#EXTGRP:✡️ ראשי
+https://reshetbetvideo.media.kan.org.il/hls/live/2044082/2044082/source1_2.5k/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="movies-comedy-YES" tvg-name="movies-comedy-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Yes-Movies-Comedy-DM.png" tvg-rec="3",יס סרטים קומדיה
+#EXTGRP:📽️ סרטים
+http://rhsbjv7k.tvclub.xyz/iptv/ALCW7F9KNSZ67F/2348/index.m3u8
+
+#EXTINF:-1 tvg-id="cinema-3-HOT" tvg-name="cinema-3-HOT" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/HOT-C3-DM.png" tvg-rec="3",הוט סינמה 3
+#EXTGRP:📽️ סרטים
+http://rhsbjv7k.tvclub.xyz/iptv/ALCW7F9KNSZ67F/2372/index.m3u8
+
+#EXTINF:-1 tvg-id="movies-action-YES" tvg-name="movies-action-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Yes-Movies-Action-DM.png" tvg-rec="3",יס סרטים פעולה
+#EXTGRP:📽️ סרטים
+http://rhsbjv7k.tvclub.xyz/iptv/ALCW7F9KNSZ67F/2350/index.m3u8
+
+#EXTINF:-1 tvg-id="cinema-1-HOT" tvg-name="cinema-1-HOT" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/HOT-C1-DM.png" tvg-rec="3",הוט סינמה 1
+#EXTGRP:📽️ סרטים
+http://rhsbjv7k.tvclub.xyz/iptv/ALCW7F9KNSZ67F/2357/index.m3u8
+
+#EXTINF:-1 tvg-id="cinema-2-HOT" tvg-name="cinema-2-HOT" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/HOT-C2-DM.png" tvg-rec="0",הוט סינמה 2
+#EXTGRP:📽️ סרטים
+http://rhsbjv7k.tvclub.xyz/iptv/ALCW7F9KNSZ67F/12215/index.m3u8
+
+#EXTINF:-1 tvg-id="movies-drama-YES" tvg-name="movies-drama-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Yes-Movies-Drama-DM.png" tvg-rec="0",יס סרטים דרמה
+#EXTGRP:📽️ סרטים
+http://rhsbjv7k.tvclub.xyz/iptv/ALCW7F9KNSZ67F/12272/index.m3u8
+
+#EXTINF:-1 tvg-id="cinema-4-HOT" tvg-name="cinema-4-HOT" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/HOT-C4-DM.png" tvg-rec="3",הוט סינמה 4
+#EXTGRP:📽️ סרטים
+http://rhsbjv7k.tvclub.xyz/iptv/ALCW7F9KNSZ67F/2356/index.m3u8
+
+#EXTINF:-1 tvg-id="israeli-cinema-YES" tvg-name="israeli-cinema-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Yes-Israeli-DM.png" tvg-rec="0",יס קולנוע ישראלי
+#EXTGRP:📽️ סרטים
+http://rhsbjv7k.tvclub.xyz/iptv/ALCW7F9KNSZ67F/12257/index.m3u8
+
+#EXTINF:-1 tvg-id="movies-kids-YES" tvg-name="movies-kids-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Yes-Movies-Kids-DM.png" tvg-rec="3",יס סרטים ילדים
+#EXTGRP:📽️ סרטים
+http://rhsbjv7k.tvclub.xyz/iptv/ALCW7F9KNSZ67F/2365/index.m3u8
+
+#EXTINF:-1 tvg-id="humor-channel-YES" tvg-name="humor-channel-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Humor-Channel-DM.png" tvg-rec="0",ערוץ ההומור
+#EXTGRP:📺 סדרות
+http://rhsbjv7k.tvclub.xyz/iptv/ALCW7F9KNSZ67F/12223/index.m3u8
+
+#EXTINF:-1 tvg-id="reshet-comedy-RESHET" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Reshet-Comedy-DM.png" tvg-rec="0",ערוץ הקומדיות 13
+#EXTGRP:📺 סדרות
+https://d15ds134q59udk.cloudfront.net/out/v1/fbba879221d045598540ee783b140fe2/index.m3u8
+
+#EXTINF:-1 tvg-id="tv-comedy-YES" tvg-name="tv-comedy-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Yes-TV-Comedy-DM.png" tvg-rec="3",יס טלויזיה קומדיה
+#EXTGRP:📺 סדרות
+http://rhsbjv7k.tvclub.xyz/iptv/ALCW7F9KNSZ67F/2345/index.m3u8
+
+#EXTINF:-1 tvg-id="comedy-HOT" tvg-name="comedy-HOT" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/HOT-Comedy-Central-DM.png" tvg-rec="0",הוט קומדי סנטרל
+#EXTGRP:📺 סדרות
+http://rhsbjv7k.tvclub.xyz/iptv/ALCW7F9KNSZ67F/12217/index.m3u8
+
+#EXTINF:-1 tvg-id="tv-action-YES" tvg-name="tv-action-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Yes-TV-Action-DM.png" tvg-rec="3",יס טלויזיה פעולה
+#EXTGRP:📺 סדרות
+http://rhsbjv7k.tvclub.xyz/iptv/ALCW7F9KNSZ67F/2346/index.m3u8
+
+#EXTINF:-1 tvg-id="zone-HOT" tvg-name="zone-HOT" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/HOT-Zone-DM.png" tvg-rec="3",הוט זון
+#EXTGRP:📺 סדרות
+http://rhsbjv7k.tvclub.xyz/iptv/ALCW7F9KNSZ67F/2360/index.m3u8
+
+#EXTINF:-1 tvg-id="tv-drama-YES" tvg-name="tv-drama-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Yes-TV-Drama-DM.png" tvg-rec="3",יס טלויזיה דרמה
+#EXTGRP:📺 סדרות
+http://rhsbjv7k.tvclub.xyz/iptv/ALCW7F9KNSZ67F/2343/index.m3u8
+
+#EXTINF:-1 tvg-id="3-HOT" tvg-name="3-HOT" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/HOT-3-DM.png" tvg-rec="3",הוט 3
+#EXTGRP:📺 סדרות
+http://rhsbjv7k.tvclub.xyz/iptv/ALCW7F9KNSZ67F/2367/index.m3u8
+
+#EXTINF:-1 tvg-id="hbo-HOT" tvg-name="hbo-HOT" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/HOT-HBO-DM.png" tvg-rec="3",HBO הוט
+#EXTGRP:📺 סדרות
+http://rhsbjv7k.tvclub.xyz/iptv/ALCW7F9KNSZ67F/2354/index.m3u8
+
+#EXTINF:-1 tvg-id="entertainment-HOT" tvg-name="entertainment-HOT" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/HOT-Bidur-DM.png" tvg-rec="3",הוט בידור ישראלי
+#EXTGRP:📺 סדרות
+http://rhsbjv7k.tvclub.xyz/iptv/ALCW7F9KNSZ67F/2379/index.m3u8
+
+#EXTINF:-1 tvg-id="channel-24-YES" tvg-name="channel-24-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Channel-24-DM.png" tvg-rec="0",ערוץ 24
+#EXTGRP:📺 סדרות
+http://rhsbjv7k.tvclub.xyz/iptv/ALCW7F9KNSZ67F/12262/index.m3u8
+
+#EXTINF:-1 tvg-id="docu-YES" tvg-name="docu-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Yes-Docu-DM.png" tvg-rec="0",יס דוקו
+#EXTGRP:📺 סדרות
+http://rhsbjv7k.tvclub.xyz/iptv/ALCW7F9KNSZ67F/12258/index.m3u8
+
+#EXTINF:-1 tvg-id="8-HOT" tvg-name="8-HOT" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/HOT-8-DM.png" tvg-rec="0",הוט 8
+#EXTGRP:📺 סדרות
+http://rhsbjv7k.tvclub.xyz/iptv/ALCW7F9KNSZ67F/12216/index.m3u8
+
+#EXTINF:-1 tvg-id="sport-1-sd-YES" tvg-name="sport-1-sd-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Sport1-DM.png" tvg-rec="0",SD ספורט 1
+#EXTGRP:⚽ ספורט
+http://rhsbjv7k.tvclub.xyz/iptv/ALCW7F9KNSZ67F/12249/index.m3u8
+
+#EXTINF:-1 tvg-id="sport-2-YES" tvg-name="sport-2-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Sport2-DM.png" tvg-rec="0",ספורט 2
+#EXTGRP:⚽ ספורט
+http://rhsbjv7k.tvclub.xyz/iptv/ALCW7F9KNSZ67F/12250/index.m3u8
+
+#EXTINF:-1 tvg-id="sport-3-YES" tvg-name="sport-3-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Sport3-DM.png" tvg-rec="0",ספורט 3
+#EXTGRP:⚽ ספורט
+http://rhsbjv7k.tvclub.xyz/iptv/ALCW7F9KNSZ67F/12251/index.m3u8
+
+#EXTINF:-1 tvg-id="sport-4-YES" tvg-name="sport-4-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Sport4-DM.png" tvg-rec="3",ספורט 4
+#EXTGRP:⚽ ספורט
+http://rhsbjv7k.tvclub.xyz/iptv/ALCW7F9KNSZ67F/2389/index.m3u8
+
+#EXTINF:-1 tvg-id="sport-5-YES" tvg-name="sport-5-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/5-Sport-DM.png" tvg-rec="3",ספורט 5
+#EXTGRP:⚽ ספורט
+http://rhsbjv7k.tvclub.xyz/iptv/ALCW7F9KNSZ67F/2391/index.m3u8
+
+#EXTINF:-1 tvg-id="sport-5-live-YES" tvg-name="sport-5-live-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/5-Live-DM.png" tvg-rec="3",ספורט 5 לייב
+#EXTGRP:⚽ ספורט
+http://rhsbjv7k.tvclub.xyz/iptv/ALCW7F9KNSZ67F/2362/index.m3u8
+
+#EXTINF:-1 tvg-id="sport-5-stars-YES" tvg-name="sport-5-stars-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/5-Stars-DM.png" tvg-rec="0",ספורט 5 סטארס
+#EXTGRP:⚽ ספורט
+http://rhsbjv7k.tvclub.xyz/iptv/ALCW7F9KNSZ67F/12232/index.m3u8
+
+#EXTINF:-1 tvg-id="5-sport-RADIO" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/5-Radio-DM.png" tvg-rec="0",ספורט 5 רדיו
+#EXTGRP:⚽ ספורט
+https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="one-FREETV" tvg-name="one-FREETV" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/ONE-DM.png" tvg-rec="3",וואן
+#EXTGRP:⚽ ספורט
+http://rhsbjv7k.tvclub.xyz/iptv/ALCW7F9KNSZ67F/2340/index.m3u8
+
+#EXTINF:-1 tvg-id="one-2-FREETV" tvg-name="one-2-FREETV" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/ONE2-DM.png" tvg-rec="0",וואן 2
+#EXTGRP:⚽ ספורט
+http://rhsbjv7k.tvclub.xyz/iptv/ALCW7F9KNSZ67F/12231/index.m3u8
+
+#EXTINF:-1 tvg-id="eurosport-2-YES" tvg-name="eurosport-2-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Eurosport-2-DM.png" tvg-rec="3",יורוספורט 2
+#EXTGRP:⚽ ספורט
+http://rhsbjv7k.tvclub.xyz/iptv/ALCW7F9KNSZ67F/7203/index.m3u8
+
+#EXTINF:-1 tvg-id="baby-YES" tvg-name="baby-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Baby-DM.png" tvg-rec="3",בייבי
+#EXTGRP:🧸 ילדים
+http://rhsbjv7k.tvclub.xyz/iptv/ALCW7F9KNSZ67F/2370/index.m3u8
+
+#EXTINF:-1 tvg-id="luli-HOT" tvg-name="luli-HOT" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Luli-DM.png" tvg-rec="3",הוט לולי
+#EXTGRP:🧸 ילדים
+http://rhsbjv7k.tvclub.xyz/iptv/ALCW7F9KNSZ67F/2364/index.m3u8
+
+#EXTINF:-1 tvg-id="hop-YES" tvg-name="hop-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Hop-DM.png" tvg-rec="3",הופ!
+#EXTGRP:🧸 ילדים
+http://rhsbjv7k.tvclub.xyz/iptv/ALCW7F9KNSZ67F/2338/index.m3u8
+
+#EXTINF:-1 tvg-id="wiz-YES" tvg-name="wiz-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Wiz-DM.png" tvg-rec="0",וויז
+#EXTGRP:🧸 ילדים
+http://rhsbjv7k.tvclub.xyz/iptv/ALCW7F9KNSZ67F/12283/index.m3u8
+
+#EXTINF:-1 tvg-id="junior-YES" tvg-name="junior-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Junior-DM.png" tvg-rec="3",ג׳וניור
+#EXTGRP:🧸 ילדים
+http://rhsbjv7k.tvclub.xyz/iptv/ALCW7F9KNSZ67F/2366/index.m3u8
+
+#EXTINF:-1 tvg-id="disney-YES" tvg-name="disney-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Disney-DM.png" tvg-rec="0",דיסני
+#EXTGRP:🧸 ילדים
+http://rhsbjv7k.tvclub.xyz/iptv/ALCW7F9KNSZ67F/12242/index.m3u8
+
+#EXTINF:-1 tvg-id="disney-junior-YES" tvg-name="disney-junior-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Disney-Jr-DM.png" tvg-rec="3",דיסני ג׳וניור
+#EXTGRP:🧸 ילדים
+http://rhsbjv7k.tvclub.xyz/iptv/ALCW7F9KNSZ67F/2333/index.m3u8
+
+#EXTINF:-1 tvg-id="nick-junior-YES" tvg-name="nick-junior-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Nick-Jr-DM.png" tvg-rec="3",ניק ג׳וניור
+#EXTGRP:🧸 ילדים
+http://rhsbjv7k.tvclub.xyz/iptv/ALCW7F9KNSZ67F/2337/index.m3u8
+
+#EXTINF:-1 tvg-id="teen-nick-YES" tvg-name="teen-nick-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/TeenNick-DM.png" tvg-rec="3",יס ניק טין
+#EXTGRP:🧸 ילדים
+http://rhsbjv7k.tvclub.xyz/iptv/ALCW7F9KNSZ67F/2334/index.m3u8
+
+#EXTINF:-1 tvg-id="zoom-YES" tvg-name="zoom-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Zoom-DM.png" tvg-rec="3",זום
+#EXTGRP:🧸 ילדים
+http://rhsbjv7k.tvclub.xyz/iptv/ALCW7F9KNSZ67F/2359/index.m3u8
+
+#EXTINF:-1 tvg-id="kan-chinuchit-23-YES" tvg-name="kan-chinuchit-23-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Kan-Chinuchit-DM.png" tvg-rec="3",כאן חינוכית
+#EXTGRP:🧸 ילדים
+http://rhsbjv7k.tvclub.xyz/iptv/ALCW7F9KNSZ67F/2380/index.m3u8
+
+#EXTINF:-1 tvg-id="national-geographic-YES" tvg-name="national-geographic-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/National-Geographic-DM.png" tvg-rec="0",נשיונל ג׳יאוגרפיק
+#EXTGRP:🌵 טבע והיסטוריה
+http://rhsbjv7k.tvclub.xyz/iptv/ALCW7F9KNSZ67F/12247/index.m3u8
+
+#EXTINF:-1 tvg-id="natgeo-wild-YES" tvg-name="natgeo-wild-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Nat-Geo-Wild-DM.png" tvg-rec="0",נשיונל ג׳יאוגרפיק פראי
+#EXTGRP:🌵 טבע והיסטוריה
+http://rhsbjv7k.tvclub.xyz/iptv/ALCW7F9KNSZ67F/12248/index.m3u8
+
+#EXTINF:-1 tvg-id="discovery-YES" tvg-name="discovery-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Discovery-DM.png" tvg-rec="3",דיסקברי
+#EXTGRP:🌵 טבע והיסטוריה
+http://rhsbjv7k.tvclub.xyz/iptv/ALCW7F9KNSZ67F/2358/index.m3u8
+
+#EXTINF:-1 tvg-id="history-hd-YES" tvg-name="history-hd-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/History-HD-DM.png" tvg-rec="0",HD היסטוריה
+#EXTGRP:🌵 טבע והיסטוריה
+http://rhsbjv7k.tvclub.xyz/iptv/ALCW7F9KNSZ67F/12265/index.m3u8
+
+#EXTINF:-1 tvg-id="food-channel-YES" tvg-name="food-channel-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Haochel-DM.png" tvg-rec="3",ערוץ האוכל
+#EXTGRP:🧁 תרבות וסטייל
+http://rhsbjv7k.tvclub.xyz/iptv/ALCW7F9KNSZ67F/2377/index.m3u8
+
+#EXTINF:-1 tvg-id="travel-channel-il-YES" tvg-name="travel-channel-il-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Hatiyulim-DM.png" tvg-rec="3",ערוץ הטיולים
+#EXTGRP:🧁 תרבות וסטייל
+http://rhsbjv7k.tvclub.xyz/iptv/ALCW7F9KNSZ67F/2361/index.m3u8
+
+#EXTINF:-1 tvg-id="home-plus-YES" tvg-name="home-plus-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Home-Plus-DM.png" tvg-rec="3",בית+
+#EXTGRP:🧁 תרבות וסטייל
+http://rhsbjv7k.tvclub.xyz/iptv/ALCW7F9KNSZ67F/2339/index.m3u8
+
+#EXTINF:-1 tvg-id="good-life-YES" tvg-name="good-life-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Hachaim-DM.png" tvg-rec="3",ערוץ החיים הטובים
+#EXTGRP:🧁 תרבות וסטייל
+http://rhsbjv7k.tvclub.xyz/iptv/ALCW7F9KNSZ67F/2355/index.m3u8
+
+#EXTINF:-1 tvg-id="nofesh-HOT" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Hanofesh-Channel-DM.png" tvg-rec="0",ערוץ הנופש
+#EXTGRP:🧁 תרבות וסטייל
+https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/index.m3u8
+
+#EXTINF:-1 tvg-id="health-YES" tvg-name="health-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Health-DM.png" tvg-rec="3",ערוץ הבריאות
+#EXTGRP:🧁 תרבות וסטייל
+http://rhsbjv7k.tvclub.xyz/iptv/ALCW7F9KNSZ67F/2378/index.m3u8
+
+#EXTINF:-1 tvg-id="e-entertainment-YES" tvg-name="e-entertainment-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/E-Entertainment-DM.png" tvg-rec="0",E! ערוץ
+#EXTGRP:🧁 תרבות וסטייל
+http://rhsbjv7k.tvclub.xyz/iptv/ALCW7F9KNSZ67F/12243/index.m3u8
+
+#EXTINF:-1 tvg-id="ftv-il-YES" tvg-name="ftv-il-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/FTV-Israel-DM.png" tvg-rec="3",ערוץ האופנה הישראלי
+#EXTGRP:🧁 תרבות וסטייל
+http://rhsbjv7k.tvclub.xyz/iptv/ALCW7F9KNSZ67F/2368/index.m3u8
+
+#EXTINF:-1 tvg-id="reality-channel-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Yes-Reality-DM.png" tvg-rec="0",ערוץ הריאליטי
+#EXTGRP:🧁 תרבות וסטייל
+https://d2dffl3588mvfk.cloudfront.net/out/v1/d8e15050ca4148aab0ee387a5e2eb46b/index.m3u8
+
+#EXTINF:-1 tvg-id="big-brother-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Big-Brother-DM.png" tvg-rec="0",ערוץ האח הגדול
+#EXTGRP:🧁 תרבות וסטייל
+https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index.m3u8
+
+#EXTINF:-1 tvg-id="muzika-il-FREETV" tvg-name="muzika-il-FREETV" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Music-il-DM.png" tvg-rec="0",IL מוזיקה
+#EXTGRP:🎸 מוזיקה
+http://rhsbjv7k.tvclub.xyz/iptv/ALCW7F9KNSZ67F/12226/index.m3u8
+
+#EXTINF:-1 tvg-id="mtv-live-YES" tvg-name="mtv-live-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/MTV-Live-DM.png" tvg-rec="0",MTV לייב
+#EXTGRP:🎸 מוזיקה
+http://rhsbjv7k.tvclub.xyz/iptv/ALCW7F9KNSZ67F/12274/index.m3u8
+
+#EXTINF:-1 tvg-id="russian-music-box-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Russian-Music-Box-DM.png" tvg-rec="0",Russian MusicBox
+#EXTGRP:🎸 מוזיקה
+
+
+#EXTINF:-1 tvg-id="viva-YES" tvg-name="viva-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Viva-Telenovelas-DM.png" tvg-rec="3",ויוה טלנובלות
+#EXTGRP:🌐 עולם הטלנובלות
+http://rhsbjv7k.tvclub.xyz/iptv/ALCW7F9KNSZ67F/2387/index.m3u8
+
+#EXTINF:-1 tvg-id="viva-plus-YES" tvg-name="viva-plus-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Viva-Istanbul-DM.png" tvg-rec="3",ויוה איסטנבול
+#EXTGRP:🌐 עולם הטלנובלות
+http://rhsbjv7k.tvclub.xyz/iptv/ALCW7F9KNSZ67F/2382/index.m3u8
+
+#EXTINF:-1 tvg-id="mediteranean-YES" tvg-name="mediteranean-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Yam-Tihoni-DM.png" tvg-rec="3",הערוץ הים תיכוני
+#EXTGRP:🌐 עולם הטלנובלות
+http://rhsbjv7k.tvclub.xyz/iptv/ALCW7F9KNSZ67F/2390/index.m3u8
+
+#EXTINF:-1 tvg-id="mediteranean-plus-YES" tvg-name="mediteranean-plus-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Yam-Tihoni-Plus-DM.png" tvg-rec="0",הערוץ הים תיכוני+
+#EXTGRP:🌐 עולם הטלנובלות
+http://rhsbjv7k.tvclub.xyz/iptv/ALCW7F9KNSZ67F/12224/index.m3u8
+
+#EXTINF:-1 tvg-id="turkish-drama-plus-YES" tvg-name="turkish-drama-plus-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Turkish-Drama-Plus-DM.png" tvg-rec="3",ערוץ הדרמות הטורקיות+
+#EXTGRP:🌐 עולם הטלנובלות
+http://rhsbjv7k.tvclub.xyz/iptv/ALCW7F9KNSZ67F/2363/index.m3u8
+
+#EXTINF:-1 tvg-id="bollywood-hd-HOT" tvg-name="bollywood-hd-HOT" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Bollywood-Movies-DM.png" tvg-rec="0",בוליווד סרטים
+#EXTGRP:🌐 עולם הטלנובלות
+http://rhsbjv7k.tvclub.xyz/iptv/ALCW7F9KNSZ67F/12267/index.m3u8
+
+#EXTINF:-1 tvg-id="cnn-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/CNN-DM.png" tvg-rec="0",חדשות סי אן אן
+#EXTGRP:📰  חדשות מהעולם
+https://d1vnr7amzbx49s.cloudfront.net/index_1.m3u8
+
+#EXTINF:-1 tvg-id="fox-news-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Fox-News-DM.png" tvg-rec="0",חדשות פוקס
+#EXTGRP:📰  חדשות מהעולם
+http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
+
+#EXTINF:-1 tvg-id="fox-business-HOT" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Fox-Business-DM.png" tvg-rec="0",פוקס ביזנס
+#EXTGRP:📰  חדשות מהעולם
+http://41.205.93.154/FOXBUSINESS/index.m3u8
+
+#EXTINF:-1 tvg-id="bloomberg-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Bloomberg-DM.png" tvg-rec="0",חדשות בלומברג
+#EXTGRP:📰  חדשות מהעולם
+https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
+
+#EXTINF:-1 tvg-id="sky-news-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Sky-News-DM.png" tvg-rec="0",חדשות סקיי
+#EXTGRP:📰  חדשות מהעולם
+https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
+
+#EXTINF:-1 tvg-id="euronews-HOT" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Euronews-DM.png" tvg-rec="0",חדשות אירופה
+#EXTGRP:📰  חדשות מהעולם
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/euronews-en.m3u8
+
+#EXTINF:-1 tvg-id="i24-en-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/i24-DM.png" tvg-rec="0",באנגלית i24 חדשות
+#EXTGRP:📰  חדשות מהעולם
+https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="i24-news-fr-HOT" tvg-name="i24-news-fr-HOT" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/i24-DM.png" tvg-rec="3",בצרפתית i24 חדשות
+#EXTGRP:📰  חדשות מהעולם
+http://rhsbjv7k.tvclub.xyz/iptv/ALCW7F9KNSZ67F/2386/index.m3u8
+
+#EXTINF:-1 tvg-id="i24-ar-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/i24-DM.png" tvg-rec="0",בערבית i24 חדשות
+#EXTGRP:📰  חדשות מהעולם
+https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/5377161796001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="france-24-en-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/France-24-DM.png" tvg-rec="0",חדשות צרפת 24 באנגלית
+#EXTGRP:📰  חדשות מהעולם
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
+
+#EXTINF:-1 tvg-id="nhk-world-HOT" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/NHK-World-DM.png" tvg-rec="0",NHK חדשות
+#EXTGRP:📰  חדשות מהעולם
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+
+#EXTINF:-1 tvg-id="dw-news-HOT" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/DW-DM.png" tvg-rec="0",באנגלית DW חדשות
+#EXTGRP:📰  חדשות מהעולם
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1 tvg-id="aljazeera-CUSTOM" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Aljazeera-DM.png" tvg-rec="0",אל ג׳אזירה באנגלית
+#EXTGRP:📰  חדשות מהעולם
+https://live-hls-web-aje-fa.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 tvg-id="aljazeera-CUSTOM" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Aljazeera-AR-DM.png" tvg-rec="0",אל ג׳אזירה בערבית
+#EXTGRP:📰  חדשות מהעולם
+https://live-hls-web-aja-fa.getaj.net/AJA/index.m3u8
+
+#EXTINF:-1 tvg-id="israel-plus-9-YES" tvg-name="israel-plus-9-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Channel-9-DM.png" tvg-rec="3",ערוץ 9
+#EXTGRP:🕎 רוסית
+http://rhsbjv7k.tvclub.xyz/iptv/ALCW7F9KNSZ67F/2374/index.m3u8
+
+#EXTINF:-1 tvg-id="1-plus-1-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/1-plus-1-DM.png" tvg-rec="0",ערוץ 1+1
+#EXTGRP:🕎 רוסית
+https://live-k2302-kbp.1plus1.video/live/1740888240/hGZrDMn6A3q7kbLnqQcGJQ/184723/smil:184723.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ntv-mir-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/NTV-MIR-DM.png" tvg-rec="0",NTV Mir
+#EXTGRP:🕎 רוסית
+http://stream02.vnet.am/HTB/mono.m3u8
+
+#EXTINF:-1 tvg-id="rtr-planeta-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Planeta-RTR-DM.png" tvg-rec="0",RTR Planeta
+#EXTGRP:🕎 רוסית
+https://player.smotrim.ru/iframe/stream/live_id/d7fef212-df66-485d-9952-7eab82d7d51b/index.m3u8
+
+#EXTINF:-1 tvg-id="dom-kino-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Dom-Kino-DM.png" tvg-rec="0",Dom Kino
+#EXTGRP:🕎 רוסית
+https://stream01.vnet.am/DomKino/mono.m3u8
+
+#EXTINF:-1 tvg-id="telecafe-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Telecafe-DM.png" tvg-rec="0",Telekafe
+#EXTGRP:🕎 רוסית
+http://stream01.vnet.am/Telekafe/mono.m3u8
+
+#EXTINF:-1 tvg-id="cgtn-documentary-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/CGTN-Docu-DM.png" tvg-rec="0",CGTN דוקומנטרי
+#EXTGRP:🕎 רוסית
+https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
+
+#EXTINF:-1 tvg-id="carousel-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Carosel-DM.png" tvg-rec="0",Carousel
+#EXTGRP:🕎 רוסית
+http://stream02.vnet.am/Karusel/mono.m3u8
+
+#EXTINF:-1 tvg-id="makan-33-YES" tvg-name="makan-33-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Makan-33-DM.png" tvg-rec="3",מכאן 33
+#EXTGRP:☪️ אפריקה ועדות המזרח
+http://rhsbjv7k.tvclub.xyz/iptv/ALCW7F9KNSZ67F/2381/index.m3u8
+
+#EXTINF:-1 tvg-id="hala-tv-YES" tvg-name="hala-tv-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Hala-TV-DM.png" tvg-rec="0",ערוץ הלא טיוי
+#EXTGRP:☪️ אפריקה ועדות המזרח
+http://rhsbjv7k.tvclub.xyz/iptv/ALCW7F9KNSZ67F/12264/index.m3u8
+
+#EXTINF:-1 tvg-id="ethiopia-CUSTOM" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Addis-TV-DM.png" tvg-rec="0",אדיס טיוי
+#EXTGRP:☪️ אפריקה ועדות המזרח
+https://rrsatrtmp.tulix.tv/addis1/addis1multi.smil/chunklist_w688199900_b2130000.m3u8
+
+#EXTINF:-1 tvg-id="egypt-HOT" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/MBC-DM.png" tvg-rec="0",MBC Masr
+#EXTGRP:☪️ אפריקה ועדות המזרח
+https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_46.m3u8
+
+#EXTINF:-1 tvg-id="egypt-HOT" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/MBC-2-DM.png" tvg-rec="0",MBC Masr 2
+#EXTGRP:☪️ אפריקה ועדות המזרח
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+
+#EXTINF:-1 tvg-id="egypt-HOT" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Alsharq-TV-DM.png" tvg-rec="0",Alsharq TV
+#EXTGRP:☪️ אפריקה ועדות המזרח
+https://mn-nl.mncdn.com/elsharq_live/live/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="egypt-HOT" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Al-Qahera-News-DM.png" tvg-rec="0",Al Qahera News
+#EXTGRP:☪️ אפריקה ועדות המזרח
+https://bcovlive-a.akamaihd.net/d30cbb3350af4cb7a6e05b9eb1bfd850/eu-west-1/6057955906001/profile_0/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="egypt-HOT" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/News-Ten-DM.png" tvg-rec="0",News Ten
+#EXTGRP:☪️ אפריקה ועדות המזרח
+https://weyyak-live.akamaized.net/weyyak_ten_tv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="iran-CUSTOM" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Pars-TV-DM.png" tvg-rec="0",ישראל פרס טיוי
+#EXTGRP:☪️ אפריקה ועדות המזרח
+https://live.pars-israel.com/tmp_hls/iptv/index.m3u8
+
+#EXTINF:-1 tvg-id="iran-CUSTOM" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Ran-TV-DM.png" tvg-rec="0",ישראל רן טיוי
+#EXTGRP:☪️ אפריקה ועדות המזרח
+https://streaminglive.co.il:3730/live/raniamranilive.m3u8
+
+#EXTINF:-1 tvg-id="iran-CUSTOM" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Meta-Film-DM.png" tvg-rec="0",meta סרטים
+#EXTGRP:☪️ אפריקה ועדות המזרח
+https://metafilmhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="iran-CUSTOM" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/SL-1-DM.png" tvg-rec="0",SL 1
+#EXTGRP:☪️ אפריקה ועדות המזרח
+https://slonehls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="iran-CUSTOM" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/SL-2-DM.png" tvg-rec="0",SL 2
+#EXTGRP:☪️ אפריקה ועדות המזרח
+https://sltwohls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="glz-RADIO" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Galatz-DM.png" tvg-rec="0",גלצ
+#EXTGRP:📻 רדיו
+http://glzwizzlv.bynetcdn.com/glz_mp3
+
+#EXTINF:-1 tvg-id="glglz-RADIO" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Galgalatz-DM.png" tvg-rec="0",גלגלצ
+#EXTGRP:📻 רדיו
+https://glzwizzlv.bynetcdn.com/glglz_mp3
+
+#EXTINF:-1 tvg-id="tarbut-RADIO" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Kan-Tarbut-DM.png" tvg-rec="0",כאן תרבות
+#EXTGRP:📻 רדיו
+https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_TARBUT.mp3
+
+#EXTINF:-1 tvg-id="kol-hamuzika-RADIO" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Kol-Hamuzika-DM.png" tvg-rec="0",כאן קול המוזיקה
+#EXTGRP:📻 רדיו
+https://cdnapisec.kaltura.com/p/2717431/sp/2717431/playManifest/entryId/1_f383er43/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
+
+#EXTINF:-1 tvg-id="moreshet-RADIO" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Kan-Moreshet-DM.png" tvg-rec="0",כאן מורשת
+#EXTGRP:📻 רדיו
+https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_MORESHET.mp3
+
+#EXTINF:-1 tvg-id="bet-RADIO" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Kan-Bet-DM.png" tvg-rec="0",כאן ב
+#EXTGRP:📻 רדיו
+https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_BET.mp3
+
+#EXTINF:-1 tvg-id="gimmel-RADIO" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Gimmel-DM.png" tvg-rec="0",כאן ג
+#EXTGRP:📻 רדיו
+https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_GIMMEL.mp3
+
+#EXTINF:-1 tvg-id="88-RADIO" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Kan-88-DM.png" tvg-rec="0",88 כאן
+#EXTGRP:📻 רדיו
+https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_88.mp3
+
+#EXTINF:-1 tvg-id="reka-RADIO" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Kan-Reka-DM.png" tvg-rec="0",כאן רקע
+#EXTGRP:📻 רדיו
+https://cfvod.kaltura.com/hls/p/2717431/sp/271743100/serveFlavor/entryId/1_xlhfcu25/v/1/ev/3/flavorId/1_skbk7757/name/a.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="emtza-haderech-RADIO" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Radio-Emtza-Haderech-DM.png" tvg-rec="0",90 fm אמצע הדרך
+#EXTGRP:📻 רדיו
+https://cdn.cybercdn.live/Emtza_Haderech/Live_Audio/icecast.audio
+
+#EXTINF:-1 tvg-id="lev-hamedina-RADIO" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Lev-Hamedina-DM.png" tvg-rec="0",91 fm רדיו לב המדינה
+#EXTGRP:📻 רדיו
+https://cdn.cybercdn.live/Lev_Hamedina/Audio/icecast.audio
+
+#EXTINF:-1 tvg-id="kol-barama-RADIO" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Kol-Barama-DM.png" tvg-rec="0",92.1 fm רדיו קול ברמה
+#EXTGRP:📻 רדיו
+https://cdn.cybercdn.live/Kol_Barama/Live_Audio/icecast.audio
+
+#EXTINF:-1 tvg-id="kol-chai-RADIO" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Kol-Chai-DM.png" tvg-rec="0",93 fm רדיו קול חי
+#EXTGRP:📻 רדיו
+http://media.93fm.co.il/live
+
+#EXTINF:-1 tvg-id="galey-israel-RADIO" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Galey-Israel-DM.png" tvg-rec="0",94 fm גלי ישראל
+#EXTGRP:📻 רדיו
+https://cdn.cybercdn.live/Galei_Israel/Live/icecast.audio
+
+#EXTINF:-1 tvg-id="kol-rega-RADIO" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Kol-Rega-DM.png" tvg-rec="0",96 fm רדיו קול רגע
+#EXTGRP:📻 רדיו
+https://cdn.cybercdn.live/Kol_Rega/Live_Audio/icecast.audio
+
+#EXTINF:-1 tvg-id="darom-RADIO" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Radio-Darom-DM.png" tvg-rec="0",97 fm רדיו דרום
+#EXTGRP:📻 רדיו
+https://cdn.cybercdn.live/Darom_97FM/Live/icecast.audio
+
+#EXTINF:-1 tvg-id="eco-RADIO" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Eco99-DM.png" tvg-rec="0",99 fm אקו
+#EXTGRP:📻 רדיו
+https://99.mediacast.co.il/99fm_aac
+
+#EXTINF:-1 tvg-id="cham-esh-RADIO" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Cham-Esh-DM.png" tvg-rec="0",99.5 fm רדיו חם אש
+#EXTGRP:📻 רדיו
+http://995.livecdn.biz:8000/995fm
+
+#EXTINF:-1 tvg-id="radius-RADIO" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Radius-DM.png" tvg-rec="0",100 fm רדיוס
+#EXTGRP:📻 רדיו
+https://cdn.cybercdn.live/Radios_100FM/Audio/icecast.audio
+
+#EXTINF:-1 tvg-id="jerusalem-RADIO" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Radio-Jerusalem-DM.png" tvg-rec="0",101 fm רדיו ירושלים
+#EXTGRP:📻 רדיו
+https://radio.streamgates.net/stream/101fm
+
+#EXTINF:-1 tvg-id="beer-sheva-RADIO" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Radio-Beer-Sheva-DM.png" tvg-rec="0",101.5 fm רדיו באר-שבע
+#EXTGRP:📻 רדיו
+https://cdn.cybercdn.live/Darom_1015FM/Live/icecast.audio
+
+#EXTINF:-1 tvg-id="kol-hayam-haadom-RADIO" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Kol-Hayam-Haadom-DM.png" tvg-rec="0",102 fm קול הים האדום אילת
+#EXTGRP:📻 רדיו
+https://cdn.cybercdn.live/Eilat_Radio/Live/icecast.audio
+
+#EXTINF:-1 tvg-id="tel-aviv-RADIO" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Radio-Tel-Aviv-DM.png" tvg-rec="0",102 fm רדיו תל אביב
+#EXTGRP:📻 רדיו
+https://102.livecdn.biz/102fm_aac
+
+#EXTINF:-1 tvg-id="lelo-hafsaka-RADIO" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Radio-Lelo-Hafsaka-DM.png" tvg-rec="0",103 fm רדיו ללא הפסקה
+#EXTGRP:📻 רדיו
+https://cdn.cybercdn.live/103FM/Live/icecast.audio
+
+#EXTINF:-1 tvg-id="haifa-RADIO" tvg-logo="https://raw.githubusercontent.com/dtp80/FluxMusic/main/scripts/src/dark/Radio-Haifa-DM.png" tvg-rec="0",107.5 fm רדיו חיפה
+#EXTGRP:📻 רדיו
+https://1075.livecdn.biz/radiohaifa
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-rec="0",ערוץ רלוונט
+#EXTGRP:
+
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-rec="0",Viva Istanbul IL
+#EXTGRP:⭐ נוספו לאחרונה
+http://rhsbjv7k.tvclub.xyz/iptv/ALCW7F9KNSZ67F/12208/index.m3u8
